@@ -2,4 +2,13 @@ hi
 how are you
 how do you do
 
-what do you do 
+what do you do
+
+
+
+
+#trying to practice reset
+
+say hi 
+say bye
+
