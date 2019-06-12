@@ -1,0 +1,6 @@
+#using the git hub practice 
+hi 
+how are you 
+how about you
+bye
+
